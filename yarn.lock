@@ -330,9 +330,9 @@
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
 "@types/node@*":
-  version "13.5.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.5.3.tgz#37f1f539b7535b9fb4ef77d59db1847a837b7f17"
-  integrity sha512-ZPnWX9PW992w6DUsz3JIXHaSb5v7qmKCVzC3km6SxcDGxk7zmLfYaCJTbktIa5NeywJkkZDhGldKqDIvC5DRrA==
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.0.tgz#b417deda18cf8400f278733499ad5547ed1abec4"
+  integrity sha512-GnZbirvmqZUzMgkFn70c74OQpTTUcCzlhQliTzYjQMqg+hVKcDnxdL19Ne3UdYzdMA/+W3eb646FWn/ZaT1NfQ==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -566,9 +566,9 @@ atob@^2.1.2:
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
 ava@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/ava/-/ava-3.1.0.tgz#20d4a434a7150ffaf34a2b5b45f223b3d115e164"
-  integrity sha512-SWMJT/CiS4KAenKRtgwBFGmHSxqI/1ANqYXTDCif9uyOjspJm3wLleqgdoyyr6N8S2E/T2ALSpUIbrqEcKsJgA==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/ava/-/ava-3.2.0.tgz#ab019f211c24f5d732b26babb7c75635012d3b83"
+  integrity sha512-Jf2DlzrDp83f8OcyN0fNcT6QX1ORk3E/bCxBrwPxbh3Szg8eA03QjK/ZYjAa6OHIEWBxZuuT7x7kupgrUo7HVQ==
   dependencies:
     "@concordance/react" "^2.0.0"
     ansi-styles "^4.2.1"
@@ -1841,9 +1841,9 @@ eslint-plugin-es@^2.0.0:
     regexpp "^3.0.0"
 
 eslint-plugin-import@^2.18.2:
-  version "2.20.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.20.0.tgz#d749a7263fb6c29980def8e960d380a6aa6aecaa"
-  integrity sha512-NK42oA0mUc8Ngn4kONOPsPB1XhbUvNHqF+g307dPV28aknPoiNnKLFd9em4nkswwepdF5ouieqv5Th/63U7YJQ==
+  version "2.20.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.20.1.tgz#802423196dcb11d9ce8435a5fc02a6d3b46939b3"
+  integrity sha512-qQHgFOTjguR+LnYRoToeZWT62XM55MBVXObHM6SKFd1VzDcX/vqT1kAz8ssqigh5eMj8qXcRoXXGZpPP6RfdCw==
   dependencies:
     array-includes "^3.0.3"
     array.prototype.flat "^1.2.1"
