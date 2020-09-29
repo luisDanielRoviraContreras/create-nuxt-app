@@ -1,15 +1,12 @@
+![create-nuxt-app](https://user-images.githubusercontent.com/904724/85284101-daf3fc00-b48e-11ea-93e2-8a9df49153c1.png)
+
 # Create Nuxt App
 
 [![NPM version](https://img.shields.io/npm/v/create-nuxt-app.svg?style=flat)](https://npmjs.com/package/create-nuxt-app)
 [![NPM downloads](https://img.shields.io/npm/dm/create-nuxt-app.svg?style=flat)](https://npmjs.com/package/create-nuxt-app)
-[![CircleCI](https://img.shields.io/circleci/project/github/nuxt/create-nuxt-app/master.svg?style=flat)](https://circleci.com/gh/nuxt/create-nuxt-app/master)
+[![GitHub Action](https://github.com/nuxt/create-nuxt-app/workflows/ci/badge.svg?branch=master)](https://github.com/nuxt/create-nuxt-app/actions?query=branch%3Amaster++)
 
-> Create a [Nuxt.js](https://github.com/nuxt/nuxt.js) project in seconds
-
-<details><summary>Preview</summary>
-
-![preview](https://ooo.0o0.ooo/2017/08/05/5984b16ed9749.gif)
-</details>
+> Create a [Nuxt.js](https://nuxtjs.org) project in seconds
 
 ## Usage
 
@@ -33,54 +30,51 @@ yarn create nuxt-app <my-project>
 
 ## Features :tada:
 
-1. Choose the package manager
+1. Package manager
     - Yarn
     - Npm
-1. Choose your favorite UI framework:
+1. Programming language
+    - JavaScript
+    - TypeScript
+1. UI framework:
     - None (feel free to add one later)
     - [Ant Design Vue](https://github.com/vueComponent/ant-design-vue)
     - [Bootstrap](https://github.com/bootstrap-vue/bootstrap-vue)
-    - [Buefy](https://buefy.github.io)
+    - [Buefy](https://buefy.org)
     - [Bulma](https://github.com/jgthms/bulma)
+    - [Chakra UI](https://github.com/chakra-ui/chakra-ui-vue)
     - [Element](https://github.com/ElemeFE/element)
     - [Framevuerk](https://github.com/framevuerk/framevuerk)
     - [iView](https://www.iviewui.com/)
     - [Tachyons](https://github.com/tachyons-css/tachyons)
     - [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
+    - [Vuesax](https://github.com/lusaxweb/vuesax)
     - [Vuetify](https://github.com/vuetifyjs/vuetify)
-1. Choose between integrated server-side frameworks:
-    - None (Nuxt default server)
-    - [Adonis](https://github.com/adonisjs/adonis-framework)
-    - [Express](https://github.com/expressjs/express)
-    - [Fastify](https://github.com/fastify/fastify)
-    - [Feathers](https://github.com/feathersjs/feathers)
-    - [Hapi](https://github.com/hapijs/hapi)
-    - [Koa](https://github.com/koajs/koa)
-    - [Micro](https://github.com/zeit/micro)
-1. Choose Nuxt.js modules:
+1. Nuxt.js modules:
     - [Axios](https://github.com/nuxt-community/axios-module)
-    - [Progressive Web App (PWA) Support](https://github.com/nuxt-community/pwa-module)
-1. Choose linting tools:
+    - [Progressive Web App (PWA)](https://github.com/nuxt-community/pwa-module)
+    - [Content](https://github.com/nuxt/content)
+1. Linting tools:
     - [ESLint](https://github.com/nuxt/eslint-config)
     - [Prettier](https://github.com/prettier/prettier)
     - [Lint staged files](https://github.com/okonet/lint-staged)
     - [StyleLint](https://github.com/stylelint/stylelint)
-1. Check the features needed for your project:
-    - [PWA](https://pwa.nuxtjs.org/)
-    - Linter / Formatter
-    - [Prettier](https://prettier.io/)
-    - [Axios](https://github.com/nuxt-community/axios-module)
-    - [Tachyons](https://tachyons.io)
-1. Choose your favorite test framework:
+    - [Commitlint](https://github.com/conventional-changelog/commitlint)
+1. Testing framework:
     - None
     - [Jest](https://github.com/facebook/jest)
     - [AVA](https://github.com/avajs/ava)
-1. Choose rendering mode
-    - [Universal (SSR)](https://nuxtjs.org/guide/#server-rendered-universal-ssr-)
+    - [WebdriverIO](https://webdriver.io)
+1. Rendering mode
+    - [Universal (SSR / Static)](https://nuxtjs.org/guide/#server-rendered-universal-ssr-)
     - [SPA](https://nuxtjs.org/guide/#single-page-applications-spa-)
-1. Choose development tools
+1. Deployment target
+    - [Server (Node.js hosting)](https://nuxtjs.org/api/configuration-target)
+    - [Static (Static/JAMStack hosting)](https://nuxtjs.org/api/configuration-target)
+1. Development tools
     - [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig)
     - [Semantic PR](https://probot.github.io/apps/semantic-pull-requests/)
+    - [Dependabot (for GitHub only)](https://dependabot.com/)
 
 ## CLI Options
 
